@@ -24,7 +24,7 @@ class Everything:
 
 class Headlines:
     '''
-    Class That defines the headlines object
+    Class That defines the headlines objects
     '''
     def __init__(self, author, title, description, url, urlToImage, publishedAt):
         self.author = author
