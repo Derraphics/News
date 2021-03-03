@@ -6,7 +6,6 @@ keep up with current affairs. You are a developer and will use your
 skills and prowess to remedy this problem. You will hence create an
 application that will help them list and preview news articles from various
 sources.
-
 ## Technology used
 
 ~ pyhton3
