@@ -167,5 +167,6 @@ def process_tech_results(tech_results_list):
 
         tech_object = Tech(author, title, description, url, urlToImage, publishedAt)
         tech_results.append(tech_object)
+        
 
     return tech_results
