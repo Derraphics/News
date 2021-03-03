@@ -2,8 +2,6 @@ from flask import render_template, request, url_for
 from . import main
 from ..request import get_news_source, get_news_headlines, get_everything, tech_headlines
 
-
-
 @main.route('/')
 def index():
     '''
