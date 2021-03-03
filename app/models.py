@@ -13,7 +13,7 @@ class Everything:
     '''
     Class That defines the news Objects
     '''
-    
+
     def __init__(self, author, title, description, url, urlToImage, publishedAt):
         self.author = author
         self.title = title
