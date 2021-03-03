@@ -7,7 +7,6 @@ def index():
     '''
     View root page function that returns the index page and its data
     '''
-
     all_sources = get_news_source()
     all_news = get_everything()
     tech_stories = tech_headlines()
