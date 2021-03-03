@@ -9,9 +9,7 @@ sources.
 
 ## Technology used
 
-~ Visual Studio Code
-~ Github for storage
-~ Heroku for hosting
+~ pyhton3
 ~ HTML5, CSS3, Boostrap
 
 #### Installation
