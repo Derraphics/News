@@ -14,7 +14,7 @@ def create_app(config_name):
 
     # Initializing flask Extensions
     bootstrap.init_app(app)
-    
+
 
     # Registering the blueprint
     from .main import main as main_blueprint
@@ -23,5 +23,4 @@ def create_app(config_name):
     # Setting Config
     from .request import configure_request
     configure_request(app)
-
     return app
